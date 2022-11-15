@@ -1,16 +1,16 @@
-# voting_app
+# Voting App
 
-Voting application for student council in a school/university
+Voting application for electing student council members in a school/university
 
-## Getting Started
+## Notice for user/admin accounts
 
-This project is a starting point for a Flutter application.
+This app only has 2 preexisting accounts for demonstration purposes. See the following for signing into the accounts.
 
-A few resources to get you started if this is your first Flutter project:
+### User module
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Email: user@gmail.com
+- Password: 123456
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Admin module
+- Email: admin@gmail.com
+- Password: 123456
