@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653348803912",
+    "project_id": "voting-system-f5642",
+    "storage_bucket": "voting-system-f5642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653348803912:android:2f42bd8e455544bd3a0f7d",
+        "android_client_info": {
+          "package_name": "com.bsit.voting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653348803912-laqvhfl8jkosp135io7jh1kalgug65kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGOBNpXZJC3wPAxP_lxSkOgTnUOA3uu5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653348803912-laqvhfl8jkosp135io7jh1kalgug65kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
