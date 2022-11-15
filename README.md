@@ -1,6 +1,6 @@
 # voting_app
 
-Voting application
+Voting application for student council in a school/university
 
 ## Getting Started
 
